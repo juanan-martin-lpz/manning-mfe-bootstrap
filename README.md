@@ -1,0 +1,1 @@
+# manning-mfe-bootstrap
